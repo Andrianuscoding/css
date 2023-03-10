@@ -1,0 +1,11 @@
+body {
+        background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pablo_Escobar_Mug.jpg/800px-Pablo_Escobar_Mug.jpg);
+}
+h1{
+    color:rgb(172, 154, 154);
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 20px;
+}  
